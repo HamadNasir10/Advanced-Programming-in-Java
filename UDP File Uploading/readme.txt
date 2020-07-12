@@ -1,0 +1,2 @@
+Objective:
+                  The goal was to develop a UDP application which will first get name of file from client and then send it to the server. Server will create a file of that name. Then on runtime user will enter data line by line on client and this data will then be sent to the server and then stored in the created file. After that both socket and file will be closed. 
