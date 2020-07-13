@@ -1,5 +1,5 @@
 # Advanced-Programming-in-Java
-This repository conatains Advanced Programming course projects. All projects are written Java language. Some projects are written in C/C++ languages. Each folder contains a questionare and solutions codes of its tasks. Just open code projects in any IDE preferably Eclipse for java and MS Visual Studio for C/C++ language and run the code.
+This repository contains Advanced Programming course projects. All projects are written in Java language. Some projects are written in C/C++ languages. Each folder contains a questionare and solutions codes of its tasks. Just open code projects in any IDE preferably Eclipse for java and MS Visual Studio for C/C++ language and run the code.
 
 All the projects are tested to run on Windows 10.
 
